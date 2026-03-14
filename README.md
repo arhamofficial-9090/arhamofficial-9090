@@ -56,9 +56,8 @@ Here are some of the projects I’ve worked on:
 ---
 
 ## 📫 Contact Me
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com)  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+- Email: [arhamofficial9090@gmail.com)  
+
 
 ---
 
